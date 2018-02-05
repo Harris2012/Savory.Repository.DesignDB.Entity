@@ -1,0 +1,25 @@
+﻿<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>Savory.Repository.DesignDB.Entity</id>
+    <version>1.0.25</version>
+    <title>Savory.Repository.DesignDB.Entity</title>
+    <authors>Harris Zhang</authors>
+    <owners>Harris Zhang</owners>
+    <licenseUrl>https://www.savory.cn</licenseUrl>
+    <projectUrl>https://www.savory.cn</projectUrl>
+    <iconUrl>https://raw.githubusercontent.com/harriszhang14/Ranta/master/Ranta.Image/Icon/RantaIcon_150_150.png</iconUrl>
+    <requireLicenseAcceptance>true</requireLicenseAcceptance>
+    <description>Savory.Repository.DesignDB.Entity</description>
+    <releaseNotes>Savory.Repository.DesignDB.Entity</releaseNotes>
+    <copyright>Copyright © Harris Zhang 2016</copyright>
+    <frameworkAssemblies>
+      <frameworkAssembly assemblyName="System.ComponentModel.DataAnnotations" targetFramework="net40" />
+    </frameworkAssemblies>
+    <tags>Savory.Repository.DesignDB.Entity</tags>
+  </metadata>
+  <files>
+    <file src="Savory.Repository.DesignDB.Entity\bin\Release\Savory.Repository.DesignDB.Entity.dll" target="lib\net45" />
+    <file src="Savory.Repository.DesignDB.Entity\bin\Release\Savory.Repository.DesignDB.Entity.xml" target="lib\net45" />
+  </files>
+</package>
